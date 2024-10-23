@@ -1,0 +1,48 @@
+{
+    "name": "Coelho",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#F2C0D6",
+        "#822626",
+        "#862828",
+        "#CE5555",
+        "#78DC52",
+        "#DAD0E7",
+        "#615C5C",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#EC8422",
+        "#91463d",
+        "#383333"
+    ]
+}
